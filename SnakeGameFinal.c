@@ -1,4 +1,5 @@
-nclude<stdio.h>
+//오픈소스sw개론 과제 실헝요
+#include<stdio.h>
 #include<windows.h>
 #include<conio.h>
 #include<assert.h>
